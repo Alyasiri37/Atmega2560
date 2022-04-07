@@ -1,6 +1,6 @@
 # Atmega2560
 Note:
-This is part of an embedded system for water level control. the solution is a wireless tank level and motor control based on Atmega MCUs and nRF wireless chip.
+This is part of an embedded system project for water level control comprising electronics and PCB design, LCD design, and MCU programming. The solution is a wireless tank level and motor control based on Atmega MCUs and the nRF wireless chip.
 
 Some helper libraries for Atmega MCUs
 These libraries are developed for use with Atmel Studio. Not a final version though!
